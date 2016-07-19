@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Alison Gardner
+tagline:          'Academic researcher and independent consultant'
+description:      'Post-doctoral academic researcher and independent consultant with extensive experience in local governance and public policy.'
+url:              http://alisongardner.me.uk
+baseurl:          /
+port: 			  4001
+
+email:			  AlisonGardner12@gmail.com
+twitter_username: AlisonGardner12
+linkedin:		  https://uk.linkedin.com/in/alison-gardner-b0739426
+profilepicurl:	  alison.jpg
+
+author:
+  name:           'Alison Gardner'
+  url:            http://alisongardner.me.uk/
+
+# Custom vars
+

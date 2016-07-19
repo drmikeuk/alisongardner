@@ -1,0 +1,26 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+
+      <img src="{{ site.profilepicurl }}"/>
+
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+
+
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-envelope"></i><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+  <li><i class="fa-li fa fa-twitter-square"></i><a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a></li>
+  <li><i class="fa-li fa fa-linkedin-square"></i><a href="{{ site.linkedin }}">LinkedIn</a></li>
+</ul>
+
+
+    <!-- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
+  </div>
+</div>
