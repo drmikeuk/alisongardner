@@ -6,17 +6,16 @@ title: Home
 Alison Gardner
 ==============
 
-Post-doctoral academic researcher and independent consultant with extensive experience in local governance and public policy.
+Post-doctoral research fellow with extensive experience in local governance and public policy.
 
 
 Research interests
 ------------------
+I am currently leading the University of Nottingham's initiative on 'slavery-free communities', working with statutory, private and voluntary sector partners to develop strong local policy responses to modern slavery.
 
-My PhD, from the University of Nottingham, examined responses to austerity in English local governance between 2010 and 2015. 
+My PhD, from the University of Nottingham, examined responses to austerity in English local governance between 2010 and 2015. Although surface-level stability had been maintained in local services, local political ‘traditions’ were under coming pressure as a result of spending cuts, and seemingly minor incremental changes had the longer-term potential to transform local governance.  
 
-The research found that although surface-level stability had been maintained in local services, local political ‘traditions’ were under coming pressure as a result of spending cuts.  The thesis went on to argue that the significance of institutional change can only be appreciated with reference to local meaning and context, and that seemingly minor incremental changes have longer-term potential to transform local governance.  
-
-Ongoing research interests include the relationship between civil society, faith communities and the local state, and the implications of the Conservatives ‘devolution revolution’ for local governance.  I am also interested in collaborative and asset-based research methodologies, and in exploring connections between institutional and interpretive models of change.
+Ongoing research interests include the implications of the Conservatives' ‘devolution revolution’ for local governance, the use of collaborative and asset-based research methodologies, and exploring connections between institutional and interpretive models of change.
 
 Publications
 ------------
@@ -35,6 +34,9 @@ English local government has faced a 'perfect storm' of radical spending cuts al
 Blog posts
 ----------
 
+### [November 2016 _"The real deal: Negotiating from a position of power"_](https://http://speri.dept.shef.ac.uk/2016/11/02/the-real-deal-negotiating-from-a-position-of-power/)
+To make devolution a success Westminster must recognise a confident and powerful local government sector as an opportunity, not a threat.
+
 ### [February 2016 _“Local governance under the Conservatives: devolution, austerity and the ‘smarter state’”_](https://inlogov.com/2016/03/01/local-government-studies-virtual-special-issue-on-budgeting-2/)
 Anyone following the news over the last nine months might be forgiven for thinking that the UK’s relationship with austerity had taken a rollercoaster ride.  In June 2015, George Osborne told central government departments to plan for 25-40% spending cuts, citing his aim for the UK to become ‘a country that lives within its means’.  His ‘fiscal charter’ signalled a departure from a historic reliance on government borrowing financed through economic growth, towards an aspiration to consistently deliver a budget surplus from 2019-20 onwards.
 
@@ -51,7 +53,7 @@ The Smith Commission’s recommendations towards ‘devo-max’ for Scotland hav
 Teaching
 --------
 
-My teaching interests span public administration, politics and international relations.  I have taught seminar groups at undergraduate level on ‘Understanding Global Politics’, ‘Governing Cities’ and ‘British Political History since 1945’.
+My teaching interests span public administration, politics and international relations.  I have taught seminar groups at Masters level for Public Management, and at undergraduate level on ‘Understanding Global Politics’, ‘Governing Cities’ and ‘British Political History since 1945’.
 
 I am also an experienced facilitator with skills in designing and leading collaborative and participative workshops for local authorities and their partner organisations.
 
