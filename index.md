@@ -34,6 +34,17 @@ English local government has faced a 'perfect storm' of radical spending cuts al
 Blog posts
 ----------
 
+### [October 2017 _"How the home of Robin Hood is trying to free itself of modern slavery"_](https://theconversation.com/how-the-home-of-robin-hood-is-trying-to-free-itself-of-modern-slavery-85471)
+A year after the police chief in Nottinghamshire committed to making the county and the city of Nottingham free from slavery, a group of the region’s businesses, churches and charities have pledged to help make this a reality.
+
+There are estimated to be between 10,000 and 13,000 victims of modern slavery and human trafficking across the UK. We don’t yet fully understand how those cases are distributed around the country, but it is clear that official figures for arrests and referrals to the National Referral Mechanism (NRM), the government’s support framework for victims, currently only scrape the surface. In Nottinghamshire, police data shows there were 33 referrals to the NRM in 2016-17, more than double the referrals in 2015-16.
+
+### [March 2017 _"Thinking globally, acting locally: is local public policy anti-slavery’s missing link?"_](https://www.walkfreefoundation.org/news/thinking-globally-acting-locally-local-public-policy-anti-slaverys-missing-link/)
+In July 2016, UK Prime Minister Theresa May promised to ‘flex the muscle of all parts of the UK Government’ in eradicating modern slavery. Yet whilst her government seeks to ‘get a real grip’ on policy at a national level, there has been minimal focus in the UK on the potential contribution of local public services, places and communities.
+
+This is an omission, because modern slavery is frequently encountered and addressed at a local level. Moreover, local politics and services can play a critical role in creating an environment that is resistant to slavery, through promoting civic leadership, influencing local economies, combining regulation and enforcement, utilising public procurement, raising awareness, and co-ordinating essential services for the support of survivors. In the UK’s context of austerity and public service retrenchment, co-production of services in concert with communities and the voluntary sector also has an increasingly significant place in effective service delivery.
+
+
 ### [November 2016 _"The real deal: Negotiating from a position of power"_](https://http://speri.dept.shef.ac.uk/2016/11/02/the-real-deal-negotiating-from-a-position-of-power/)
 To make devolution a success Westminster must recognise a confident and powerful local government sector as an opportunity, not a threat.
 
