@@ -45,7 +45,7 @@ In July 2016, UK Prime Minister Theresa May promised to ‘flex the muscle of al
 This is an omission, because modern slavery is frequently encountered and addressed at a local level. Moreover, local politics and services can play a critical role in creating an environment that is resistant to slavery, through promoting civic leadership, influencing local economies, combining regulation and enforcement, utilising public procurement, raising awareness, and co-ordinating essential services for the support of survivors. In the UK’s context of austerity and public service retrenchment, co-production of services in concert with communities and the voluntary sector also has an increasingly significant place in effective service delivery.
 
 
-### [November 2016 _"The real deal: Negotiating from a position of power"_](https://http://speri.dept.shef.ac.uk/2016/11/02/the-real-deal-negotiating-from-a-position-of-power/)
+### [November 2016 _"The real deal: Negotiating from a position of power"_](http://speri.dept.shef.ac.uk/2016/11/02/the-real-deal-negotiating-from-a-position-of-power/)
 To make devolution a success Westminster must recognise a confident and powerful local government sector as an opportunity, not a threat.
 
 ### [February 2016 _“Local governance under the Conservatives: devolution, austerity and the ‘smarter state’”_](https://inlogov.com/2016/03/01/local-government-studies-virtual-special-issue-on-budgeting-2/)
