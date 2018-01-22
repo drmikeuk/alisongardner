@@ -6,7 +6,7 @@ title: Home
 Alison Gardner
 ==============
 
-Post-doctoral research fellow with extensive experience in local governance and public policy.
+{{ site.description }}
 
 
 Research interests
@@ -17,10 +17,21 @@ My PhD, from the University of Nottingham, examined responses to austerity in En
 
 Ongoing research interests include the implications of the Conservatives' ‘devolution revolution’ for local governance, the use of collaborative and asset-based research methodologies, and exploring connections between institutional and interpretive models of change.
 
+
+### Collaborating for Freedom
+
+A website and accompanying research report to map multi-agency anti-slavery partnerships across the UK, identify potential examples of "good practice" among them and understand the conditions that helped to facilitate success.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our new research with <a href="https://twitter.com/UKAntiSlavery?ref_src=twsrc%5Etfw">@UKAntiSlavery</a> mapping anti-slavery partnership work in the UK is out today! <a href="https://t.co/7DJUVgXKin">https://t.co/7DJUVgXKin</a> <a href="https://twitter.com/hashtag/ESRCfestival?src=hash&amp;ref_src=twsrc%5Etfw">#ESRCfestival</a> <a href="https://t.co/evDU0fj4PN">pic.twitter.com/evDU0fj4PN</a></p>&mdash; Alison Gardner (@AlisonGardner12) <a href="https://twitter.com/AlisonGardner12/status/928522010531127296?ref_src=twsrc%5Etfw">November 9, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Publications
 ------------
 
-### [Lowndes V. and Gardner, A (2016) ‘Local government under the Conservatives: Super-Austerity, Devolution and the ‘Smarter State’’. _Local Government Studies_](http://www.tandfonline.com/doi/full/10.1080/03003930.2016.1150837)
+### [Gardner, A. (2017). Big change, little change? Punctuation, increments and multi-layer institutional change for English local authorities under austerity. _Local Government Studies_, 43(2), 150-169. doi: 10.1080/03003930.2016.1276451](http://www.tandfonline.com/doi/abs/10.1080/03003930.2016.1276451)
+This paper draws on new institutionalist theories to consider how we might characterise the process and outcomes of change occurring in English local government as a result of the UK’s austerity policies. It uses national and local empirical data to argue that changes are best understood as multi-layer processes, whereby radical ‘punctuated’ shifts in national funding can be mitigated to incremental adjustments in service delivery at a local level. However, the paper also suggests that the incremental appearance of change may be temporary, and that diminishing institutional resilience and emergent discursive shifts potentially prefigure a paradigm change in local governance.
+
+
+### [Lowndes V. and Gardner, A (2016) ‘Local government under the Conservatives: Super-Austerity, Devolution and the ‘Smarter State’’. _Local Government Studies_, 42(3), 357–375. doi:10.1080/03003930.2016.1150837](http://www.tandfonline.com/doi/full/10.1080/03003930.2016.1150837)
 The Conservatives show a new assertiveness in relation to restructuring the local state, promoting devolution as a strategy to stimulate economic growth, based on greater sub-regional autonomy and increased competitiveness across and between English localities. 
 
 ‘Combined authorities’ have the opportunity to champion local identities and acquire new economic development powers from Whitehall, but devolution may also be a strategy to decentralise austerity, shifting responsibility to the local level for deeper cuts and inevitable service reductions. Local government confronts ‘super-austerity’, where new cuts come on top of previous ones, compounding original impacts and creating dangerous (and unevenly spread) multiplier effects. 
